@@ -1,0 +1,52 @@
+RNG Seed: 205
+Counter: 200
+Discard Counter: 5
+
+RNG Seed: 205
+Counter: 200
+Discard Counter: 5
+
+RNG Seed: 205
+Counter: 200
+Discard Counter: 5
+
+RNG Seed: 205
+Counter: 200
+Discard Counter: 5
+
+RNG Seed: 205
+Counter: 200
+Discard Counter: 5
+
+RNG Seed: 205
+Counter: 200
+Discard Counter: 5
+
+RNG Seed: 205
+Counter: 200
+Discard Counter: 5
+
+RNG Seed: 1296
+Counter: 7
+Discard Counter: 5
+
+RNG Seed: 1296
+Counter: 7
+Discard Counter: 5
+
+RNG Seed: 1296
+Counter: 7
+Discard Counter: 5
+
+RNG Seed: 1296
+Counter: 7
+Discard Counter: 5
+
+RNG Seed: 1296
+Counter: 7
+Discard Counter: 5
+
+RNG Seed: 1296
+Counter: 7
+Discard Counter: 5
+

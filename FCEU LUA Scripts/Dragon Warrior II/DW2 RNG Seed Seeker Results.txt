@@ -1,0 +1,15 @@
+Gold: 14445
+RNG Seed: 24554
+
+Gold: 51314
+RNG Seed: 45045
+
+Gold: 79981
+RNG Seed: 24554
+
+Gold: 116850
+RNG Seed: 45045
+
+Gold: 145517
+RNG Seed: 24554
+

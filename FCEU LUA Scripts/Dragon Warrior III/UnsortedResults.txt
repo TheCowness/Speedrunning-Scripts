@@ -1,0 +1,9 @@
+File 1, Seed 9DE9: "eB" MS1 M
+File 1, Seed 444C: "eB" MS1 F
+File 1, Seed 0480: "eB" MS5 M
+File 2, Seed 4FFB: "A" MS5 F
+File 2, Seed A569: "A" MS6 M
+File 2, Seed 7CCC: "A" MS6 F
+File 3, Seed 42FE: "A" MS7 M
+File 3, Seed 9B5F: "A" MS7 F
+File 3, Seed 71CD: "A" MS8 M

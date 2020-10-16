@@ -1,0 +1,194 @@
+04/12/16 01:11:14
+
+File 1, Seed 2C0C: "A" MS1 M
+File 1, Seed 6C38: "A" MS5 F
+File 1, Seed B59B: "A" MS5 M
+File 1, Seed F5AF: "A" MS1 F
+
+
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+File 2, Seed F03B: "A" MS7 M
+
+
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+File 3, Seed A86F: "A" MS8 F
+
+
+04/12/16 01:11:39
+
+File 1, Seed 1E63: "A" MS5 F
+File 1, Seed 298E: "A" MS5 M
+File 1, Seed 531C: "A" MS1 M
+File 1, Seed 76CF: "A" MS1 F
+
+
+File 2, Seed 484C: "A" MS6 M
+File 2, Seed 6FA2: "A" MS7 M
+File 2, Seed BD73: "A" MS6 F
+
+
+File 3, Seed 2B45: "A" MS8 F
+File 3, Seed 568A: "A" MS7 F
+File 3, Seed 7E03: "A" MS8 M
+
+
+04/12/16 01:12:00
+
+File 1, Seed 2C0C: "A" MS1 M
+File 1, Seed 6C38: "A" MS5 F
+File 1, Seed B59B: "A" MS5 M
+File 1, Seed F5AF: "A" MS1 F
+
+
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+File 2, Seed F03B: "A" MS7 M
+
+
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+File 3, Seed A86F: "A" MS8 F
+
+
+04/12/16 01:12:20
+
+File 1, Seed 2C0C: "A" MS1 M
+File 1, Seed 6C38: "A" MS5 F
+File 1, Seed B59B: "A" MS5 M
+File 1, Seed F5AF: "A" MS1 F
+
+
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+File 2, Seed F03B: "A" MS7 M
+
+
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+File 3, Seed A86F: "A" MS8 F
+
+
+04/12/16 01:13:21
+
+File 1, Seed 2C0C: "A" MS1 M
+File 1, Seed 6C38: "A" MS5 F
+File 1, Seed B59B: "A" MS5 M
+File 1, Seed F5AF: "A" MS1 F
+
+
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+File 2, Seed F03B: "A" MS7 M
+
+
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+File 3, Seed A86F: "A" MS8 F
+
+
+04/12/16 01:15:33
+
+File 1, Seed 131D: "A" MS5 M
+File 1, Seed 5329: "A" MS1 F
+File 1, Seed 8A8A: "A" MS1 M
+File 1, Seed CABE: "A" MS5 F
+
+
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+File 2, Seed F03B: "A" MS7 M
+
+
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+File 3, Seed A86F: "A" MS8 F
+
+
+04/12/16 01:15:50
+
+File 1, Seed 131D: "A" MS5 M
+File 1, Seed 5329: "A" MS1 F
+File 1, Seed 8A8A: "A" MS1 M
+File 1, Seed CABE: "A" MS5 F
+
+
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+File 2, Seed F03B: "A" MS7 M
+
+
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+File 3, Seed A86F: "A" MS8 F
+
+
+04/12/16 01:16:46
+
+File 1, Seed 6BAF: "A" MS1 M
+File 1, Seed B20C: "A" MS1 F
+File 1, Seed F238: "A" MS5 M
+
+
+File 2, Seed 4FFA: "A" MS5 F
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+
+
+File 3, Seed 42FD: "A" MS7 M
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+
+
+04/12/16 01:17:00
+
+File 1, Seed 047F: "B" MS5 M
+File 1, Seed 444B: "B" MS1 F
+File 1, Seed 9DE8: "B" MS1 M
+
+
+File 2, Seed 4FFA: "A" MS5 F
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+
+
+File 3, Seed 42FD: "A" MS7 M
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+
+
+04/12/16 01:17:45
+
+File 1, Seed 047F: "eB" MS5 M
+File 1, Seed 444B: "eB" MS1 F
+File 1, Seed 9DE8: "eB" MS1 M
+
+
+File 2, Seed 4FFA: "A" MS5 F
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+
+
+File 3, Seed 42FD: "A" MS7 M
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+
+
+04/12/16 01:21:31
+
+File 1, Seed 047F: "eB" MS5 M
+File 1, Seed 444B: "eB" MS1 F
+File 1, Seed 9DE8: "eB" MS1 M
+
+
+File 2, Seed 4FFA: "A" MS5 F
+File 2, Seed 7CCB: "A" MS6 F
+File 2, Seed A568: "A" MS6 M
+
+
+File 3, Seed 42FD: "A" MS7 M
+File 3, Seed 71CC: "A" MS8 M
+File 3, Seed 9B5E: "A" MS7 F
+
+
